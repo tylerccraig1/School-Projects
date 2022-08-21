@@ -1,0 +1,10 @@
+Contains final project for CIS 2268 at Sinclair Community College.  
+
+Class focused on Oracle - SQL Databases
+
+Book used throughout class used 'Oracle 12c: SQL' by Joan Casteel
+  ISBN 13: 978-1-305-25103-8
+  ISBN 10: 1-305-2510-2
+  
+ To run the 'CIS2268_FINAL.sql' file, will need to install Oracle SQL-Developer.  
+ Instructions for installing Oracle SQL Developer can be found here: https://www.oracle.com/database/sqldeveloper/
