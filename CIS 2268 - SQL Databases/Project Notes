@@ -1,4 +1,4 @@
-Contains final project for CIS 2268 at Sinclair Community College.  
+Contains final project for CIS 2268 at Sinclair Community College.  Project focused on creating a SQL database and manipulating tables within the database. 
 
 Class focused on Oracle - SQL Databases
 
@@ -8,3 +8,4 @@ Book used throughout class used 'Oracle 12c: SQL' by Joan Casteel
   
  To run the 'CIS2268_FINAL.sql' file, will need to install Oracle SQL-Developer.  
  Instructions for installing Oracle SQL Developer can be found here: https://www.oracle.com/database/sqldeveloper/
+ 
